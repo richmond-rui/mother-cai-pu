@@ -1,182 +1,554 @@
 [
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_other_cook_book.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\fragment_other_cook_book.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_first_page.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\layout\\activity_first_page.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_normal_cook_deatil.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\activity_normal_cook_deatil.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_seach.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\content_seach.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\html_loading_dialog.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\layout\\html_loading_dialog.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seach.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\activity_seach.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_seach_bar.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\layout_seach_bar.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_seach_cook_book.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\fragment_seach_cook_book.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_detail.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\item_detail.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\details_item.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\layout\\details_item.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_baked_cook_book.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\fragment_baked_cook_book.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\layout\\activity_second.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_goods.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\item_goods.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_item.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\layout\\select_item.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\layout\\activity_details.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title_bar.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\layout\\layout_title_bar.xml"
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_other_cook_book.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\fragment_other_cook_book.xml"
     },
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title_bar.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\layout_title_bar.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_baked_cook_book.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\fragment_baked_cook_book.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_seach_bar.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\layout_seach_bar.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_encyclopedia_cook_book.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\fragment_encyclopedia_cook_book.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_goods.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\item_goods.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title_bar.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\layout_title_bar.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chinese_cook_book.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\fragment_chinese_cook_book.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_encyclopedia_cook_book.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\fragment_encyclopedia_cook_book.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_normal_cook_book.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\fragment_normal_cook_book.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chinese_cook_book.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\fragment_chinese_cook_book.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seach.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\activity_seach.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_normal_cook_deatil.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\activity_normal_cook_deatil.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_seach.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\content_seach.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_seach_cook_book.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\fragment_seach_cook_book.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_normal_cook_book.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\fragment_normal_cook_book.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_detail.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
     }
 ]

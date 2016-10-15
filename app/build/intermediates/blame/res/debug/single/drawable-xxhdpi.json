@@ -1,6 +1,34 @@
 [
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\toolbar_menu_share.png",
+        "source": "E:\\myCookBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\toolbar_menu_share.png"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_back.png",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\drawable-xxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\toolbar_search.png",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\drawable-xxhdpi\\toolbar_search.png"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\toolbar_menu_share.png",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\toolbar_menu_share.png"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_more_black_24px.png",
+        "source": "E:\\myCookBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_expand_more_black_24px.png"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_back.png",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\drawable-xxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expand_more_black_24px.png",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_expand_more_black_24px.png"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\toolbar_search.png",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\drawable-xxhdpi\\toolbar_search.png"
     }
 ]

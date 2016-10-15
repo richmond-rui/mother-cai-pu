@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    api-level="17"
-    density="hdpi"
+    api-level="19"
     format="8"
     plugin-version="2.2.0"
-    timestamp="23387437678973"
-    token="2362662459317395910"
-    verifier="PARENT_CLASS_CHANGED" >
+    timestamp="365490322867299"
+    token="-5793504936978562073"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="593" />
+        duration="849" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="146" />
+        duration="13" />
     <task
         name="verifier"
-        duration="36" />
+        duration="2" />
 
     <artifact
-        location="E:\ruiqin\OtherWork\ChinaCaiPu\app\build\outputs\apk\app-debug.apk"
+        location="E:\WORK\myCookBook\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="23387437678973"
-        verifier="PARENT_CLASS_CHANGED" >
+        timestamp="365490322867299"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\ruiqin\OtherWork\ChinaCaiPu\app\build\outputs\apk\app-debug.apk"
+            location="E:\WORK\myCookBook\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.lanlengran.mycookbook.ui.fragments.NormalCookBookFragment">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary"
+        android:focusable="true"
+        android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/seach_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@color/colorPrimary"
+            android:gravity="left|center_vertical"
+            android:hint="@string/搜索"
+            android:maxLines="1"
+            android:paddingLeft="100dp"
+            android:paddingRight="50dp"
+            android:textColor="@android:color/white"
+            android:imeOptions="actionSearch"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:id="@+id/seach_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="50dp"
+            android:padding="15dp"
+            android:src="@drawable/toolbar_search" />
+
+        <ImageView
+            android:id="@+id/title_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="15dp"
+
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_back" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="45dp"
+            android:background="@color/bg_gray"
+            android:layout_marginLeft="60dp"
+            />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ProgressBar
+            android:id="@+id/progeressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone" />
+
+        <android.support.v4.widget.SwipeRefreshLayout
+            android:id="@+id/swipe_refresh_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recyclerview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"></android.support.v7.widget.RecyclerView>
+        </android.support.v4.widget.SwipeRefreshLayout>
+    </FrameLayout>
+
+
+</LinearLayout>

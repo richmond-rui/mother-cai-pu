@@ -1,6 +1,26 @@
 [
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\menu\\details.xml",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\menu\\details.xml"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_menu.xml",
+        "source": "E:\\myCookBook\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_menu.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\WORK\\myCookBook\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     }
 ]

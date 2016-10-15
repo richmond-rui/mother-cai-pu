@@ -1,11 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">我的厨房</string>
 
-    <string name="app_name">妈妈的厨房</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="title_activity_html_util">HtmlUtilActivity</string>
-    <string name="title_activity_second">SecondActivity</string>
-    <string name="title_activity_details">DetailsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
     <string name="action_settings">Settings</string>
+    <string name="家常菜谱">家常菜谱</string>
+    <string name="烘焙屋">烘焙屋</string>
+    <string name="中国菜谱">中国菜谱</string>
+    <string name="厨房百科">厨房百科</string>
+    <string name="外国菜谱">外国菜谱</string>
+    <string name="分享">分享</string>
+    <string name="设置">设置</string>
+    <string name="网络错误">网络错误</string>
+    <string name="没有数据">没有数据</string>
+    <string name="加载成功">加载成功</string>
+    <string name="刷新完成">刷新完成</string>
+    <string name="已经加载">已经在加载中了。。。</string>
+    <string name="是否图片">是否开启图片</string>
+    <string name="仅wifi">仅wifi下加载图片</string>
+    <string name="搜索">搜索</string>
+    <string name="搜索完成">搜索完成</string>
+    <string name="请输入关键词">请输入关键词！</string>
+    <string name="分享后缀">\n(分享自“我的菜谱”，最好用的菜谱软件！下载地址：www.baidu.com)</string>
+
 
 </resources>

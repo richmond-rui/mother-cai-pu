@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_normal_cookbook"
+            android:icon="@drawable/navbg3"
+            android:checked="true"
+            android:title="@string/家常菜谱" />
+        <item
+            android:id="@+id/nav_bakery_cookbook"
+            android:icon="@drawable/navbg1"
+            android:title="@string/烘焙屋" />
+        <item
+            android:id="@+id/nav_chinese_cookbook"
+            android:icon="@drawable/navbg4"
+            android:title="@string/中国菜谱" />
+        <item
+            android:id="@+id/nav_encyclopaedia_cookbook"
+            android:icon="@drawable/navbg2"
+            android:title="@string/厨房百科" />
+        <item
+            android:id="@+id/nav_other_cookbook"
+            android:icon="@drawable/navbg5"
+            android:title="@string/外国菜谱" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/分享" />
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/设置" />
+        </menu>
+
+    </item>
+
+
+</menu>

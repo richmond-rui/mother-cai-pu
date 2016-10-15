@@ -1,6 +1,10 @@
 [
     {
-        "merged": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "E:\\ruiqin\\OtherWork\\ChinaCaiPu\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "E:\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_expand_more_black_24px.png",
+        "source": "E:\\myCookBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_expand_more_black_24px.png"
+    },
+    {
+        "merged": "E:\\WORK\\myCookBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_expand_more_black_24px.png",
+        "source": "E:\\WORK\\myCookBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_expand_more_black_24px.png"
     }
 ]
