@@ -40,8 +40,6 @@ public class CookBookItemAdapter extends RecyclerView.Adapter {
         this.cookBookItemBeenList = cookBookItemBeen;
         mContext = context;
         this.clz=clz;
-//        ImageLoaderConfiguration configuration = ImageLoaderConfiguration.createDefault(mContext);
-//        ImageLoader.getInstance().init(configuration);
         WindowManager wm= (WindowManager) mContext.getApplicationContext().getSystemService(Context.WINDOW_SERVICE);
         width=wm.getDefaultDisplay().getWidth();
         animation=new TranslateAnimation(width,0,0,0);
